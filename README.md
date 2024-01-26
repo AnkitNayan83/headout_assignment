@@ -1,8 +1,8 @@
-# Hesdout Assignment
+# Headout Assignment
 
 ## Requirements
 
-For development, you will only need Node.js and a node global package,NPM/Yarn, installed in your environment.
+For development, you will only need Node.js and a node global package, NPM/Yarn, installed in your environment.
 
 ### Node
 
